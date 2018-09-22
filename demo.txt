@@ -1,1 +1,29 @@
 its a new day, new file new beginnings. Open your eyes.
+
+
+git status
+
+git init
+
+git add "xxx.xxx"
+
+git commit -m "comment"
+
+git branch
+
+git checkout -b "new feature"
+
+git merge --no -ff -newfeature -m			
+
+git branch -D new feature 			deletes "new feature branch"
+
+
+
+
+updated this locally.
+ 
+git push -u origin master to push local changes to local master then to remote master.
+
+git fetch origin
+
+git remote -v
